@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMumbleProtocol", "NMumbleProtocol\NMumbleProtocol.csproj", "{AED11F6F-54CC-4290-B751-8B08088EA08A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{541AF976-6F56-4A51-BB62-30DE591AE727}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED11F6F-54CC-4290-B751-8B08088EA08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED11F6F-54CC-4290-B751-8B08088EA08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED11F6F-54CC-4290-B751-8B08088EA08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED11F6F-54CC-4290-B751-8B08088EA08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
